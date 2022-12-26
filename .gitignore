@@ -1,0 +1,5 @@
+.idea/
+.git/
+.DS_Store
+PascalVOC2022/cfg/darknet53.conv.74
+PascalVOC2022/cfg/yolov3.weights

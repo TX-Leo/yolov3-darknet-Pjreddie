@@ -1,0 +1,7 @@
+
+classes=1
+train=PascalVOC2022/cfg/PascalVOC2022_train.txt
+val=PascalVOC2022/cfg/PascalVOC2022_val.txt
+names=PascalVOC2022/cfg/my_names.names
+backup=PascalVOC2022/cfg
+
